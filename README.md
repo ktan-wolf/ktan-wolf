@@ -7,6 +7,7 @@ Checkout what I made
 
 ### Project
 - [AetherNet-DePIN](https://github.com/ktan-wolf/AetherNet-DePIN)
+- [Indexer](https://github.com/ktan-wolf/Indexer)
 
 ### Cli Tools
 - [Rust Terminal](https://github.com/ktan-wolf/Rust-Terminal)

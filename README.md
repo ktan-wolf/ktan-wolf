@@ -34,5 +34,6 @@ Checkout what I made
 - 🌐 [Portfolio](https://ktan-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ketan-kumar-7b203b352/)
 - 🐦 [Twitter : ktan-wolf](https://x.com/ktan_wolf)
+- 📧 [Email](mailto:ktan247610@gmail.com)
 
 ⭐️ From [ktan](https://github.com/ktan)

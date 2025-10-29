@@ -1,9 +1,9 @@
-## Hey there! 👋
+# Hey there! 👋
 
 I'm **Ketan**, a Rust + Solana developer and full-stack engineer 🚀  
 Checkout what I made
 
-#Web3 Showcase : )
+## Web3 Showcase : )
 
 ### Project
 - [AetherNet-DePIN](https://github.com/ktan-wolf/AetherNet-DePIN)
@@ -19,14 +19,13 @@ Checkout what I made
 - [Quantum Vault](https://github.com/ktan-wolf/Pinocchio-Quantum-Vault)
 - [Native Vault](https://github.com/ktan-wolf/Pinocchio-Native-Vault)
 - [Counter](https://github.com/ktan-wolf/Pinocchio_Counter)
-
 #### Anchor
 - [NFT Maketplace](https://github.com/ktan-wolf/NFT-Contract)
 - [Flash Loan](https://github.com/ktan-wolf/Anchor_flash_loan)
 - [Staking](https://github.com/ktan-wolf/AetherNet-DePIN)
 - [Escrow](https://github.com/ktan-wolf/Escrow-Contract)
 
-#Web2 Showcase
+## Web2 Showcase
 - [YAP](https://github.com/ktan-wolf/YAP)
 - [Wallet App](https://github.com/ktan-wolf/wallet-app)
 - [NoteSaver](https://github.com/ktan-wolf/Note-Saver-App)

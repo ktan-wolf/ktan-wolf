@@ -30,7 +30,7 @@ Checkout what I made
 - [Wallet App](https://github.com/ktan-wolf/wallet-app)
 - [NoteSaver](https://github.com/ktan-wolf/Note-Saver-App)
 
-### 🔗 Links
+## 🔗 Links
 - 🌐 [Portfolio](https://ktan-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ketan-kumar-7b203b352/)
 - 🐦 [Twitter : ktan-wolf](https://x.com/ktan_wolf)

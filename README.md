@@ -3,7 +3,7 @@
 I'm **Ketan**, a Rust + Solana developer and full-stack engineer 🚀  
 Checkout what I made
 
-## ⚡ WΞB://³ Showcase 
+## ⚡ 𝖜𝖊𝖇3 Showcase 
 
 ### Project
 - [AetherNet-DePIN](https://github.com/ktan-wolf/AetherNet-DePIN) - A Solana DePIN project built with Anchor for deploying decentralized physical infrastructure via blockchain automation.
@@ -25,7 +25,7 @@ Checkout what I made
 - [Staking](https://github.com/ktan-wolf/AetherNet-DePIN) - An Anchor-based Solana smart contract for token staking and reward distribution with secure, programmatic yield logic.
 - [Escrow](https://github.com/ktan-wolf/Escrow-Contract) - An Anchor-based Solana smart contract for trustless escrow operations between parties.
 
-## Web2 Showcase
+## 𝖜𝖊𝖇2 Showcase
 - [YAP](https://github.com/ktan-wolf/YAP) - A MERN-stack TypeScript clone of Twitter enabling posts, likes, comments, followers, and real-time notifications.
 - [Wallet App](https://github.com/ktan-wolf/wallet-app) - A lightweight TypeScript/React wallet app for managing personal finances and tracking expenses.
 - [NoteSaver](https://github.com/ktan-wolf/Note-Saver-App) - A React-based note-taking application with intuitive UI, quick save and edit features for everyday productivity.

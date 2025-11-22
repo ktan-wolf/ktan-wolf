@@ -3,11 +3,18 @@
 I'm **Ketan**, a Rust + Solana developer and full-stack engineer 🚀  
 Checkout what I made
 
-## ⚡ 𝖜𝖊𝖇3 Showcase 
+## ⚡ Showcase 
 
 ### Project
+- [W3:Terminal](https://github.com/ktan-wolf/W3Terminal_server) - W3:Terminal Engine is a high-frequency, quantum-styled cryptocurrency arbitrage terminal. It fuses a multi-threaded Rust backend with a holographic Next.js frontend to visualize and capture liquidity fractures across Centralized (CEX) and Decentralized (DEX) exchanges in real-time.
+
+
 - [AetherNet-DePIN](https://github.com/ktan-wolf/AetherNet-DePIN) - A Solana DePIN project built with Anchor for deploying decentralized physical infrastructure via blockchain automation.
-- [Indexer](https://github.com/ktan-wolf/Indexer) - A high-performance blockchain indexer built in Rust for fetching on-chain data and integrating seamlessly with frontend dApps.
+- [Indexer](https://github.com/ktan-wolf/Indexer) - A high-performance blockchain indexer built in Rust for fetching on-chain data and integrating seamlessly with frontend dApps. 
+
+- [YAP](https://github.com/ktan-wolf/YAP) - A MERN-stack TypeScript clone of Twitter enabling posts, likes, comments, followers, and real-time notifications.
+- [Wallet App](https://github.com/ktan-wolf/wallet-app) - A lightweight TypeScript/React wallet app for managing personal finances and tracking expenses.
+- [NoteSaver](https://github.com/ktan-wolf/Note-Saver-App) - A React-based note-taking application with intuitive UI, quick save and edit features for everyday productivity.
 
 ### Cli Tools
 - [Rust Terminal](https://github.com/ktan-wolf/Rust-Terminal) - A lightweight Rust-based terminal CLI interface that offers streamlined command-line workflows with minimal overhead.
@@ -24,11 +31,6 @@ Checkout what I made
 - [Flash Loan](https://github.com/ktan-wolf/Anchor_flash_loan) - A flash-loan smart contract on Solana using Anchor for atomic borrowing and repayment in a single transaction.
 - [Staking](https://github.com/ktan-wolf/AetherNet-DePIN) - An Anchor-based Solana smart contract for token staking and reward distribution with secure, programmatic yield logic.
 - [Escrow](https://github.com/ktan-wolf/Escrow-Contract) - An Anchor-based Solana smart contract for trustless escrow operations between parties.
-
-## 𝖜𝖊𝖇2 Showcase
-- [YAP](https://github.com/ktan-wolf/YAP) - A MERN-stack TypeScript clone of Twitter enabling posts, likes, comments, followers, and real-time notifications.
-- [Wallet App](https://github.com/ktan-wolf/wallet-app) - A lightweight TypeScript/React wallet app for managing personal finances and tracking expenses.
-- [NoteSaver](https://github.com/ktan-wolf/Note-Saver-App) - A React-based note-taking application with intuitive UI, quick save and edit features for everyday productivity.
 
 ## 🔗 Links
 - 🌐 [Portfolio](https://ktan-portfolio.vercel.app/)
